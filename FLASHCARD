@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard</title>
+    <main>
+
+    </main>
+    <footer>
+        <p>Projeto desenvolvido pela Alura, sem fins lucrativos.</p>
+    </footer>
+    <main>
+    <section id="container"> 
+
+</section>
+<article class="cartao">
+                <div class="cartao__conteudo">
+
+                </div>
+            </article>
+            <h3> curiosidade </h3>
+            <div class="cartao__conteudo__pergunta">
+Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?
+</div>
+<div class="cartao__conteudo__resposta">
+Entre 4 a 6 litros. São retirados 450 mililitros.
+</div>
+<article class="cartao">
+        <div class="cartao__conteudo">
+                <h3> curiosidade </h3>
+                      <div class="cartao__conteudo__pergunta">
+                            De onde é a invenção do chuveiro elétrico?
+                        </div>                        
+                       <div class="cartao__conteudo__resposta">
+                           Brasil
+                         </div>
+                        </div>
+                            
+         </article>
+          <article class="cartao">
+        <div class="cartao__conteudo">
+                <h3> curiosidade </h3>
+                      <div class="cartao__conteudo__pergunta">
+                           Quais o menor e o maior país do mundo? 
+                        </div>                        
+                       <div class="cartao__conteudo__resposta">
+                           Vaticano e Rússia
+                         </div>
+                        </div>
+                            
+         </article>
+<article class="cartao">
+        <div class="cartao__conteudo">
+                <h3> curiosidade </h3>
+                      <div class="cartao__conteudo__pergunta">
+                           Qual o nome do presidente do Brasil que ficou conhecido como Jango?
+                        </div>                        
+                       <div class="cartao__conteudo__resposta">
+                           João Goulart.
+                         </div>
+                        </div>
+                            
+         </article>
+<article class="cartao">
+        <div class="cartao__conteudo">
+                <h3> curiosidade </h3>
+                      <div class="cartao__conteudo__pergunta">
+                           Qual o livro mais vendido no mundo a seguir à Bíblia?
+                        </div>                        
+                       <div class="cartao__conteudo__resposta">
+                            Dom Quixote
+                         </div>
+                        </div>
+                            
+         </article>
+<article class="cartao">
+        <div class="cartao__conteudo">
+                <h3> curiosidade </h3>
+                      <div class="cartao__conteudo__pergunta">
+                           Atualmente, quantos elementos químicos a tabela periódica possui?
+                        </div>                        
+                       <div class="cartao__conteudo__resposta">
+                           118
+                         </div>
+                        </div>
+                            
+         </article>
